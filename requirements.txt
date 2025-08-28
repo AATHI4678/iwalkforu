@@ -1,0 +1,9 @@
+opencv-python
+numpy
+python-dotenv
+openai>=1.40.0
+ultralytics>=8.2.0
+torch
+torchvision
+torchaudio
+
